@@ -1,7 +1,7 @@
 package router
 
 import (
-	"GoProjects/src/footweearEcomerce/src/footwearEcomerce/api"
+	"GoProjects/src/footweearEcomerce/src/api"
 	"net/http"
 
 	"github.com/labstack/echo/v4"

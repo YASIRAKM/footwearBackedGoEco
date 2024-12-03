@@ -1,7 +1,7 @@
 package api
 
 import (
-	"GoProjects/src/footweearEcomerce/src/footwearEcomerce/api/handler"
+	"GoProjects/src/footweearEcomerce/src/api/handler"
 
 	"github.com/labstack/echo/v4"
 )

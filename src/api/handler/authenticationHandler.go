@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"GoProjects/src/footweearEcomerce/src/footwearEcomerce/db"
-	"GoProjects/src/footweearEcomerce/src/footwearEcomerce/model"
-	"GoProjects/src/footweearEcomerce/src/footwearEcomerce/utils"
+	"GoProjects/src/footweearEcomerce/src/db"
+	"GoProjects/src/footweearEcomerce/src/model"
+	"GoProjects/src/footweearEcomerce/src/utils"
 	"database/sql"
 	"fmt"
 	"net/http"

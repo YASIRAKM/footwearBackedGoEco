@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"GoProjects/src/footweearEcomerce/src/footwearEcomerce/model"
+	"GoProjects/src/footweearEcomerce/src/model"
 
 	"github.com/labstack/echo/v4"
 )

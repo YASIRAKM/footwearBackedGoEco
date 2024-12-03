@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GoProjects/src/footweearEcomerce/src/footwearEcomerce/db"
-	"GoProjects/src/footweearEcomerce/src/footwearEcomerce/router"
+	"GoProjects/src/footweearEcomerce/src/db"
+	"GoProjects/src/footweearEcomerce/src/router"
 	"log"
 	"os"
 )
